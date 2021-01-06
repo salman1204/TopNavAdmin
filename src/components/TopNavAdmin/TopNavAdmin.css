@@ -1,0 +1,10 @@
+.top__nav__admin{
+    display: flex;
+    justify-content: space-around; 
+    align-items:center; 
+    
+}
+
+.top__nav__search {
+    margin-top: 1.2%;
+}
